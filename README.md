@@ -2,4 +2,4 @@
 
  ## My Web development mini-projects
  ### My mini project list following :-
- Magic_Notes
+ * Magic_Notes
